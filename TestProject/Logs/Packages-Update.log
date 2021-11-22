@@ -1,5 +1,5 @@
 
-=== Fri Nov 12 17:24:03 2021
+=== Mon Nov 22 19:48:52 2021
 
 Packages were changed.
 Update Mode: mergeDefaultDependencies
@@ -14,7 +14,6 @@ The following packages were added:
   com.unity.modules.animation@1.0.0
   com.unity.modules.assetbundle@1.0.0
   com.unity.modules.audio@1.0.0
-  com.unity.modules.autostreaming@1.0.0
   com.unity.modules.cloth@1.0.0
   com.unity.modules.director@1.0.0
   com.unity.modules.imageconversion@1.0.0
